@@ -1,0 +1,52 @@
+.m-t20{
+    margin-top:20px;
+}
+.m-r5{
+
+    margin-right: 5px;
+}
+
+.btn-sty{
+
+    border-radius: 7px !important;
+}
+
+.m-t10{
+    margin-top:10px;
+}
+
+footer{
+
+    background-color: #343a40!important;
+    text-align: center;
+    padding: 15px;
+    margin-top:10%;
+}
+#p1{
+    color: white;
+}
+.list-group-item-info {
+    color: white !important;
+    background-color: #343a40 !important;
+}
+
+.mheader{
+
+    background-color: #343a40 !important;
+    color: white !important;
+}
+
+.btnclose{
+
+
+    color: ghostwhite;
+}
+table {
+    border-collapse: separate;
+    border-spacing: 10px 50px;
+    border-color: white;
+    border-style: hidden;
+    
+}
+td{    padding: 6px;
+}
